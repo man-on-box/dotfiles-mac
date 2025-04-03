@@ -1,0 +1,16 @@
+# Any sensitive values should exist in .local files
+# 
+# For example, for Bash and ZSH, they should exist in:
+#
+# .bashrc.local
+# .zshrc.local
+#
+# These files are automatically loaded to the respective terminal
+# and are excluded from Git
+*.local
+
+# The usual things to ignore
+.DS_Store
+*.log
+*.bak
+
