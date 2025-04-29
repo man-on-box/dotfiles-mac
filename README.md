@@ -28,3 +28,12 @@ ln -s ~/repos/dotfiles-mac/.zshrc ~/.zshrc
 For sensitive variables that should not be included in Git, add them in:
 
 - .zshrc.local
+
+## Frequently used apps
+
+Currently I'm using the following apps:
+
+- [Raycast](https://www.raycast.com/) app launcher
+- [AltTab](https://alt-tab-macos.netlify.app) app switcher
+- [Arc Browser](https://arc.net/download)
+- [Boxy SVG](https://boxy-svg.com/) SVG editor
